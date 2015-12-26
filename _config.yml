@@ -1,0 +1,28 @@
+name: Pantry Press
+favicon: null
+layout_spectrum: 0.0064034792594611645
+typography_spectrum: 0.8989621270447969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6302334137726575
+  lightness: 0.23340016906149685
+  saturation: 0.06538053881376982
+  rhythmicContrast: 0.5464722921606153
+purpose: []
