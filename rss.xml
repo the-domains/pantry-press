@@ -2,16 +2,22 @@
     <channel>
         <title><![CDATA[Pantry Press]]></title>
         <description><![CDATA[Pantry Press]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pantry-press/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 00:18:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 00:23:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pantry-press/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pantry Press dot com]]></title>
             <description><![CDATA[<article><h1>Pantry Press dot com</h1><p>The brilliant and beautiful Sylvie Grace and her Cello performing at the Freehand Hotel, Chicago</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eea1e4f768aea6f32e744d9602187bed88d7ef41.jpg"></article>]]></description>
-            <link>undefinedpantry-press-dot-com/index.html</link>
+            <link>https://thegrid.ai/pantry-press/pantry-press-dot-com/index.html</link>
             <guid isPermaLink="false">8d9e3ef9-ddf9-4ea2-89e8-9489d618a671</guid>
             <pubDate>Mon, 11 Jan 2016 00:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/photo.php?fbid=10153767252580619&amp;set=a.10151015090010619.476540.510905618&amp;type=3</link>
+            <guid isPermaLink="false">1ac64233-9d17-49bb-84cd-f07af1af128f</guid>
+            <pubDate>Mon, 11 Jan 2016 00:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
